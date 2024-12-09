@@ -1,6 +1,6 @@
 <div align="center">
   <!--  Banner Image by: https://leviarista.github.io/github-profile-header-generator/ -->
-  <img src="assets/welcome-banner.png" alt="Banner Image">
+  <img src="assets/banner-image.png" alt="Banner Image">
 </div>
 
 <div align="center">
