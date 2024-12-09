@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <!--  Banner Image by: https://leviarista.github.io/github-profile-header-generator/ -->
+  <img src="" width="600" height="100" alt="Banner Image">
+</div>
 
-<!--
-**abltcp97/abltcp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- https://readme-typing-svg.demolab.com/demo/ -->
+  <img src="" alt="Typing Intro" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <!-- Page Visit Counter by: https://github.com/antonkomarev/github-profile-views-counter -->
+  <img src="https://komarev.com/ghpvc/?username=abltcp97&style=flat-square">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔐  Aspiring Security Engineer with big dreams
+- 💻 Currently working as an MDM Administrator for CLU
+- 🎓 Bachelor's Computer Science and Engineering from University of California, Merced, Class of 2021
+- 🧗🏻 I enjoy rock climbing, trying new foods, and creating homelabs
+- Check out my blog at [Memory Leak](https://blog.aalamillo.com)
+
