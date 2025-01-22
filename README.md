@@ -30,8 +30,10 @@
 ![Tools](https://skillicons.dev/icons?i=vscode,azure,ubuntu,kali,windows,apple,)
 
 ## 📝 Check out my Latest Blog Posts
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- BLOG-POST-LIST:START -->
 
-- [Building a Cybersecurity Home Lab with Proxmox: Part 1](https://blog.aalamillo.com/posts/building-cyber-home-lab-part-1/)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📬 How to reach me:
 
