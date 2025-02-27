@@ -32,11 +32,11 @@
 ## 📝 Check out my Latest Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Home Network Upgrade Journey](https://blog.aalamillo.com/posts/home-network-upgrade-journey/)
 - [Building a CyberSecurity Home Lab with Proxmox: Part 6 - Active Directory Lab Setup - Part 2](https://blog.aalamillo.com/posts/building-cyber-home-lab-part-6/)
 - [Building a CyberSecurity Home Lab with Proxmox: Part 5 - Active Directory Lab Setup - Part 1](https://blog.aalamillo.com/posts/building-cyber-home-lab-part-5/)
 - [Building a CyberSecurity Home Lab with Proxmox: Part 4 - Cyber Sandbox Setup](https://blog.aalamillo.com/posts/building-cyber-home-lab-part-4/)
 - [Building a CyberSecurity Home Lab with Proxmox: Part 3 - Firewall Configuration](https://blog.aalamillo.com/posts/building-cyber-home-lab-part-3/)
-- [Building a CyberSecurity Home Lab with Proxmox: Part 2 - Kali Linux Setup](https://blog.aalamillo.com/posts/building-cyber-home-lab-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📬 How to reach me:
