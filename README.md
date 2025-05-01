@@ -45,5 +45,5 @@
 <!-- Format: https://img.shields.io/badge/text-color.svg?&style=for-the-badge&logo=logo&logoColor=color -->
 
 [![Linkedin Badge](https://img.shields.io/badge/abel--alamillo-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-alamillo/)
-[![Gmail Badge](https://img.shields.io/badge/abltcp97@gmail.com-d24438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abltcp97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/abltcp97@gmail.com-d24438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abel@aalamillo.com)
 [![Discord](https://img.shields.io/badge/JollyG-8389da.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/193878969357959168)
